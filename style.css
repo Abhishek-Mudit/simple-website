@@ -97,7 +97,7 @@ body{
 .summary{
     text-align:justify;
     border:3px solid blue;
-    color:rgb(238, 8, 250);
+    color:rgb(4, 153, 153);
     /* padding: 1px; */
     margin:10px;
     font-weight:700;
@@ -112,7 +112,7 @@ body{
 .experience{
     text-align:justify;
     border:3px solid blue;
-    color:rgb(238, 8, 250);
+    color:rgb(4, 153, 153);
     padding: 2px;
     margin:10px;
     font-weight:700;
@@ -126,7 +126,7 @@ body{
 .certification{
     text-align:justify;
     border:3px solid blue;
-    color:rgb(238, 8, 250);
+    color:rgb(4, 153, 153);
     padding: 2px;
     font-weight:700;
     margin-top:20px;
@@ -152,7 +152,7 @@ table{
     
 }
 .andar{
-    color:rgb(238, 8, 250);
+    color:rgb(4, 153, 153);
     padding:10px;
     background-color: #fdfdfd;
 }
